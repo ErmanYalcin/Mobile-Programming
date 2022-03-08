@@ -1,4 +1,4 @@
-# Mobile-Programming
+# Android Studio installation
 1)	We are entering Android Studio Web page
 
 ![image](https://user-images.githubusercontent.com/101103934/157287896-f9d9ce09-574c-486e-afe0-d11167943ff5.png)
